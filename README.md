@@ -16,3 +16,13 @@ Ester Carvalho: Dev
 Lucca da Veiga: Dev
 Maria Júlia Pessoa: Dev
 Kaique Alves: Dev
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Como executar:
+1.Criar uma pasta no C: com os arquivos do zip
+2.Criar um drive virtual no cmd usando o comando subst w: C:/Nome_da_Pasta
+3.Ter o Visual Studio Build Tools com as Ferramentas de Desenvolvimento C++
+4.Rodar o x64 Native Tools
+5.Entrar no drive virtual W:
+6.Entrar no engine-from-scratch
+7.Colocar o comando: clean && build && mygame
